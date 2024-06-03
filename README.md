@@ -11,6 +11,7 @@ Prostate cancer screening using prostate-specific antigen (PSA) has been shown t
 - DMRS_ALL.csv : list of all 30k dmrs identified during bootstapping
 - annotated_DMRS_900.csv : annotated list of the 900 top DMRs used for Machine Learning
 - genes_all_900.csv : Beta value table for all patients at the 900 DMRs
+- Metadata
 
 ## ML 
 
@@ -18,4 +19,5 @@ Python scripts for machine learning models
 
 ## R
 
-Plot script
+- Plot script
+- Metadata scripts
